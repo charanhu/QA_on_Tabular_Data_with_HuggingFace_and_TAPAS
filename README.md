@@ -1,8 +1,7 @@
 # Question and answering on tabular data with hugging face and tapas
 
 This repository contains a simple example of how to use the [tapas](https://github.com/google-research/tapas)
-model and hugging face to answer questions on tabular data.
-
+model from Google Research and the [hugging face](https://huggingface.co/google/tapas-base-finetuned-wtq)
 ## Requirements
     transformers==4.4.1
     torch==1.13.0+cu116
